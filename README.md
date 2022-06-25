@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 <a href="https://www.facebook.com/sanghong.kim/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
     <a href="https://www.instagram.com/up_hong95/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-
 <br>
 
 ![shlish95's github stats](https://github-readme-stats.vercel.app/api?username=shlish95&show_icons=true) 
